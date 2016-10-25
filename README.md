@@ -1,0 +1,1 @@
+# RAY_HitList_CoreData
